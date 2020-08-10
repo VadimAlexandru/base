@@ -1,18 +1,17 @@
 {
-    "name": "backpack/base",
+    "name": "VadimAlexandru/base",
     "type": "library",
-    "description": "Laravel Backpack's base package, which offers admin authentication and a blank admin panel using AdminLTE",
+    "description": "wtg pkg",
     "keywords": [
-        "backpack",
-        "base"
+        "wtg"
     ],
-    "homepage": "https://github.com/laravel-backpack/base",
+    "homepage": "https://github.com/x/base",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Cristian Tabacitu",
-            "email": "hello@tabacitu.ro",
-            "homepage": "http://www.tabacitu.ro",
+            "name": "VadimAleksandru",
+            "email": "v700.lg@gmail.com",
+            "homepage": "https://github.com/VadimAlexandru",
             "role": "Creator & Maintainer"
         }
     ],
